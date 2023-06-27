@@ -1,1 +1,1 @@
-# odin-recipes-
+#This project will serve to practice my newly learned skills in HTML, I will be making web pages that contain information on ingredients and how to use them to make a specific dish. With this, I plan to use images, headings, lists and paragraphs to execute the assignment's vision.
